@@ -1,0 +1,23 @@
+.background {
+    background-image: url(../img/background-image-pumarippoff.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.kaas {
+    justify-content: flex-end;
+    align-items: flex-start !important;
+}
+
+.henk {
+    margin-top: 20vh;
+}
+
+.bier {
+    display: flex;
+    flex-direction: column;
+}
